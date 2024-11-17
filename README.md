@@ -31,12 +31,12 @@ bash run_leap_test.sh
 ```
 ## Citation
 ```script
-@inproceedings{zhou2025label,
+@inproceedings{zhou2024label,
   title={Label-anticipated event disentanglement for audio-visual video parsing},
   author={Zhou, Jinxing and Guo, Dan and Mao, Yuxin and Zhong, Yiran and Chang, Xiaojun and Wang, Meng},
   booktitle={European Conference on Computer Vision},
   pages={35--51},
-  year={2025},
+  year={2024},
   organization={Springer}
 }
 ```
