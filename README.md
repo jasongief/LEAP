@@ -5,7 +5,7 @@ Official code for ECCV 2024 paper: [Label-anticipated Event Disentanglement for 
 
 ## Overview
 
-![image-20241117120242932](./task_method_overview.png)
+![image-20241117120242932](./img/task_method_overview.png)
 
 ## Data Preparation
 
