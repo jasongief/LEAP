@@ -19,5 +19,5 @@ python main_leap.py \
 --lr 1e-4 \
 --batch_size 32 \
 --epochs 30 \
---model "MM_Pyramid_temporal_Lav_Tav_way0_lr1e-4_bs32_layers2_protoloss3_mse1" \
+--model "MMPyr_LEAP_pretrained" \
 --model_save_dir "./pretrained_model" \
