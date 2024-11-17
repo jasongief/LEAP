@@ -25,7 +25,7 @@ bash run_leap_train.sh
 
 
 ## Test the model
-The pre-trained model can be downloaded from this [Link](https://drive.google.com/file/d/1u2RtsCgS0iafyPB3RRO6h-hrG54_EzLO/view?usp=sharing)
+The pre-trained model can be downloaded from this [Link](https://drive.google.com/file/d/1u2RtsCgS0iafyPB3RRO6h-hrG54_EzLO/view?usp=sharing). Put the downloaded model into ``./pretrained_model``.
 ```script
 bash run_leap_test.sh
 ```
